@@ -1,5 +1,4 @@
-# zx
-root
+# zx Project
 
 Welcome to the ZX project, which I started with gitHub and myself. 
 
